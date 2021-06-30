@@ -78,12 +78,13 @@ footer {
   h1 {
     text-align: center;
     margin-top: 8rem;
+    font-size: 10rem;
   }
 
   .img1 {
     height: 250px;
     width: 250px;
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
   }
 
   .showOnMobile {
@@ -94,11 +95,18 @@ footer {
     height: 250px;
     width: 250px;
     padding: 2%;
-    margin-bottom: 2rem;
+    margin-bottom: 5rem;
   }
 
   .btn {
     margin-bottom: 1rem;
+    height: 4rem;
+    width: 4rem;
+    margin-bottom: 4rem;
   }
-
+  
+  footer {
+    font-size: 4rem;
+    padding: 2rem;
+  }
 }
